@@ -37,9 +37,9 @@ Este repositório contém a implementação de um sistema de reservas, desenvolv
 
 4.  Para executar os testes automatizados:
 
-        ```
-        npm test
-        ```
+    ```
+    npm test
+    ```
 
     <br>
 
